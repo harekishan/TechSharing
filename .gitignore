@@ -4,3 +4,5 @@ gradle-app.setting
 build
 *.i??
 out
+.classpath
+.project
